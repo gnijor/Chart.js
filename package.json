@@ -1,5 +1,5 @@
 {
-  "name": "Chart.js",
+  "name": "chartjs",
   "version": "0.2.0",
   "description": "Simple HTML5 Charts using the canvas element",
   "keywords": ["charts"],
