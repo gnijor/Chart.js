@@ -8,7 +8,7 @@
  */
 
 //Define the global Chart Variable as a class.
-window.Chart = function(context){
+module.exports = function(context){
 
 	var chart = this;
 	
